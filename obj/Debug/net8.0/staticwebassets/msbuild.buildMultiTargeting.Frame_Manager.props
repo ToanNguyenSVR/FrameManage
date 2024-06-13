@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Frame_Manager.props" />
+</Project>
